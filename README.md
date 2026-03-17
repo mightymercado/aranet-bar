@@ -1,4 +1,5 @@
 # AranetBar
+<img width="404" height="419" alt="Screenshot 2026-03-16 at 7 16 46 PM" src="https://github.com/user-attachments/assets/abda874d-a81d-4331-b953-a36a0b7ada16" />
 
 A macOS menu bar app that displays real-time air quality data from two sources:
 
